@@ -4,3 +4,7 @@ c=a+b
 print(c)
 d=a-b
 print(d)
+
+
+def greet(name):
+    return "Hello " 
